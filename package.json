@@ -1,0 +1,17 @@
+{
+  "name": "piko",
+  "version": "0.1.0",
+  "description": "A lightweight Express alternative by IdiotStudios",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "keywords": ["express", "framework", "http", "middleware", "router", "piko"],
+  "author": "IdiotStudios <contact@idiotstudios.co.za>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idiotstudios/piko.git"
+  },
+  "license": "MIT",
+  "type": "module"
+}
